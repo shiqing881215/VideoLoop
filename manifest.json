@@ -1,0 +1,19 @@
+{
+	"manifest_version" : 2,
+
+	"name" : "Video Loop",
+	"description" : "Loop the video you want to watch",
+	"version" : "1.0",
+
+	"browser_action" : {
+		"default_icon" : "icon.png",
+		"default_popup": "videoLoop.html"
+	},
+
+	"permissions" : [
+		"activeTab",
+		"tabs",
+		"https://ajax.googleapis.com/"
+	]
+
+}
