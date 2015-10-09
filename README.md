@@ -5,5 +5,6 @@ Tired of hitting the replay button on Youtube or Vimeo by yourself ? Check out t
 After installing this chrome plugin, you can have the Youtube or Vimeo video playing for you automatically. </br>
 You can also view the page by having a small nice video window on the top right corner. </br> </br>
 
-Also check out this video on Youtube https://www.youtube.com/watch?v=XB7_BUggkkQ
+Also check out this video on Youtube https://www.youtube.com/watch?v=XB7_BUggkkQ <br/>
 
+![2015-10-08 9 53 05](https://cloud.githubusercontent.com/assets/2434215/10386079/29cfd52a-6e07-11e5-8e13-77cdb669bd8d.png)
